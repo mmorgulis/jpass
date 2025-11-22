@@ -98,6 +98,7 @@
                         </manifest>
                     </archive>
                 </configuration>
+                
                 <executions>
                     <execution>
                         <id>assemble-all</id>
